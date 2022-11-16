@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there I am Gian and I am striving to be a full stack developer.
+
+
+###  I am currently working on my master thesis that is coming soon.
+
+### Checkout my website: coming soon
+
+### During the last three years I have been working on [Lonomy](https://lonomy.ethz.ch/) a startup that strives to create your AI tractor operator.
+
+
+### I have studies robotics at ETH Zürich, where I specialized in AI/ML. 
+
+
+
+
+
 
 <!--
 **gerni17/gerni17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
