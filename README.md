@@ -1,4 +1,4 @@
-# Hi there I am Gian and I am striving to be a full stack developer.
+# Hi I am Gian and I am striving to be a full stack developer.
 
 
 ###  I am currently working on my master thesis: coming soon.
